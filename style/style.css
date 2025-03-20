@@ -67,12 +67,13 @@ header > p {
 
 nav {
     background-color: var(--cor4);
-    padding: 10px;
+    padding: 5px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.199);
+    
 }
 nav > a {
     color:var(--cor1) ;
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.5s;
